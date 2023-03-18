@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jocelyn&#39;s Data Science Portfolio on Home</title>
+    <link>https://jrmazarura.github.io/portfolio/</link>
+    <description>Recent content in Jocelyn&#39;s Data Science Portfolio on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2023 11:13:32 -0400</lastBuildDate><atom:link href="https://jrmazarura.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 3: MLOps</title>
+      <link>https://jrmazarura.github.io/portfolio/post/project-3/</link>
+      <pubDate>Thu, 02 Mar 2023 11:13:32 -0400</pubDate>
+      
+      <guid>https://jrmazarura.github.io/portfolio/post/project-3/</guid>
+      <description>Overview Useful: https://ashki23.github.io/markdown-latex.html
+summary of tool: ie objective data collection: scraping feature engineering to do xyz models (client facing API) Italic and Bold
+norm &amp;lt;- function(x) { sqrt(x%*%x) } norm(1:4) Fig 1. Pretty graph Project&amp;rsquo;s Github repository:</description>
+    </item>
+    
+    <item>
+      <title>Project 2: ML</title>
+      <link>https://jrmazarura.github.io/portfolio/post/project-2/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://jrmazarura.github.io/portfolio/post/project-2/</guid>
+      <description>blah blah blah</description>
+    </item>
+    
+    <item>
+      <title>Project 1: SQL</title>
+      <link>https://jrmazarura.github.io/portfolio/post/project-1/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://jrmazarura.github.io/portfolio/post/project-1/</guid>
+      <description>This is where I will write my own story&amp;hellip;
+$$ x^2 $$</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://jrmazarura.github.io/portfolio/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jrmazarura.github.io/portfolio/about/</guid>
+      <description>Illustration from Victor Hugo et son temps (1881) The Hunchback of Notre-Dame (French: Notre-Dame de Paris) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://jrmazarura.github.io/portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jrmazarura.github.io/portfolio/contact/</guid>
+      <description>You can find me on social media:
+Platform URL LinkedIn: https://www.linkedin.com/in/jocelyn-mazarura YouTube: </description>
+    </item>
+    
+  </channel>
+</rss>

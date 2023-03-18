@@ -6,4 +6,6 @@ tags: ["SQL"]
 title: "Project 1: SQL"
 ---
 
-This is where I will write my own story... 
+This is where I will write my own story \\[ a \ne b \\] where
+$$ \frac{3}{1} \sum $$
+$$ x^2 $$
