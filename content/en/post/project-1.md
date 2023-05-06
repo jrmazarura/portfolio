@@ -7,5 +7,5 @@ title: "Project 1: SQL"
 ---
 
 This is where I will write my own story \\( a \ne b \text{ where } x^2 \\)
-$$ \frac{3}{1} \sum^2_{i=4} i^{\exp{-1}}$$
+$$ \frac{3}{1} \sum^2_{i=4} i^{(\exp{-1)}$$
 $$ x^2 $$
